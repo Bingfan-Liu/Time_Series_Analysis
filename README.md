@@ -1,4 +1,25 @@
-# Time_Series_ARIMA_and_SETAR
+# BitCoin forecast using VAR
+
+## 1 Introduction
+
+## 2 Model Setup
+
+## 3 Data and Emperical Analysis
+
+## 4 Conclusion
+
+## 5 Referrence
+
+## 6 Appendix
+
+
+
+
+
+
+
+
+# GDP forecast using ARIMA
 
 ## 1 Linear Forecast of the GDP Growth Rate: ARIMA Model
 
@@ -16,16 +37,4 @@
 #### ---------- 1.3.1 Box-Pierce Test
 #### ---------- 1.3.2 Overfitting
 
-#
-
-## 2 Non-Linear Forecast of Bussiness Cylcle: SETAR(m) Model
-
-### - 2.1 Model Setup
-### - 2.2 Lag and Threshold Value Specification
-### - 2.3 Parameters Estimation
-### - 2.4 Result Report
-### - 2.5 Diagnostic Test
-#### ---------- 2.5.1 Jaque-Berra Test
-#### ---------- 2.5.2 Box-Pierce Test
-#### ---------- 2.5.3 Test for Over Fitting
 
